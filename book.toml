@@ -1,0 +1,6 @@
+[book]
+authors = ["saicharankandukuri"]
+language = "en"
+multilingual = false
+src = "src"
+title = "test-mdbook-deploy"
